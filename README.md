@@ -11,8 +11,10 @@
 | **Javascript** |   Advanced   |     Yes      |
 | **CSS**        |   Advanced   |     Yes      |
 | **React**      |   Advanced   |     Yes      |
-| **Typescript** | Intermediate |      No      |
+| **Typescript** | Intermediate |     Yes      |
+| **NestJS**     | Intermediate |     Yes      |
 | **C++**        |    Basic     |      No      |
 | **Rust**       |    Basic     |      No      |
+
 
 </center>
