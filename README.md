@@ -15,6 +15,8 @@
 | **NestJS**     | Intermediate |     Yes      |
 | **C++**        |    Basic     |      No      |
 | **Rust**       |    Basic     |      No      |
+| **ThreeJS**    |    Basic     |      No      |
+| **Blender**    |    Advanced  |      Yes     |
 
 
 </center>
