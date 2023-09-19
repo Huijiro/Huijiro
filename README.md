@@ -4,7 +4,7 @@
     <h1> Gabriel Rodrigues Campos </h1> 
     <h2> Huijiro </h2>
 <br>
-    [![Huijiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=huijiro)](https://github.com/anuraghazra/github-readme-stats)
+    [![Huijiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=huijiro)](https://github.com/anuraghazra/github-readme-stats)]
 <h3>Development Skills</h3>
 
 | Skills         |    Level     | Professional |
