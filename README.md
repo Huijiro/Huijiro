@@ -1,11 +1,8 @@
-#
+# Gabriel "Huijiro" Campos
 
-<center> 
-    <h1> Gabriel Rodrigues Campos </h1> 
-    <h2> Huijiro </h2>
-<br>
-    [![Huijiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=huijiro)](https://github.com/anuraghazra/github-readme-stats)]
-<h3>Development Skills</h3>
+![Huijiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=huijiro&theme=github_dark)
+    
+## Development Skills
 
 | Skills         |    Level     | Professional |
 | -------------- | :----------: | :----------: |
@@ -19,5 +16,3 @@
 | **ThreeJS**    |    Basic     |      No      |
 | **Blender**    |    Advanced  |      Yes     |
 
-
-</center>
