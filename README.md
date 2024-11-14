@@ -9,6 +9,8 @@
 | **Javascript** |   Advanced   |     Yes      |
 | **CSS**        |   Advanced   |     Yes      |
 | **React**      |   Advanced   |     Yes      |
+| **Svelte**     |    Advanced  |      Yes     |
+| **Golang**     | Intermediate |      Yes     |
 | **Typescript** | Intermediate |     Yes      |
 | **NestJS**     | Intermediate |     Yes      |
 | **C++**        |    Basic     |      No      |
