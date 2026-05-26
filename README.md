@@ -40,10 +40,10 @@ Building tools for [PI](https://github.com/earendil-works/pi-coding-agent), an e
 
 When I'm not at work or writing dev tools, I'm probably writing a game I'll never finish:
 
-- **[europa-derelict](https://github.com/Huijiro/europa-derelict)** — C++ something something space horror.
-- **[moba-game](https://github.com/Huijiro/moba-game)** — Custom C++ engine, because of course.
-- **[gocharge](https://github.com/Huijiro/gocharge)** — A Go backend framework on top of `net/http`. Built it to learn how the ones I use actually work.
-- **[survivors](https://github.com/Huijiro/survivors)** — Vampire Survivors clone in Rust. Mandatory rite of passage.
+- **[europa-derelict](https://github.com/Huijiro/europa-derelict)** — C++ something something space horror and copy of valve physics in Godot.
+- **[moba-game](https://github.com/Huijiro/moba-game)** — League of Legends still sucks... Dota is too complex, I wanted my own thing.
+- **[gocharge](https://github.com/Huijiro/gocharge)** — A Go backend framework on top of `net/http`. Cuz I really wanted a go backend that was properly typed.
+- **[survivors](https://github.com/Huijiro/survivors)** — Vampire Survivors clone in Rust.
 
 ### stats
 
