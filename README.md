@@ -15,10 +15,18 @@
 
 ### whoami
 
-Engineer at [Agentuity](https://agentuity.com). I spend my days inside terminals,
-editors, and the dark corners of frameworks where the bugs live. Most of what I
-ship is either tooling to make my own workflow less painful or a side-project
-game I will absolutely not finish.
+Engineer at [Agentuity](https://agentuity.com), the full-stack platform for AI
+agents. Most of my work lives in the seams: the CLI, dev mode, the build
+pipeline, the framework plumbing that makes spinning up an agent feel like one
+command instead of a Friday afternoon.
+
+Lately I've been leading our next major platform rewrite — retiring the old
+runtime, swapping in a framework-agnostic build pipeline, wiring up first-class
+support for the frameworks people actually want to use, and chasing every last
+race condition out of dev mode.
+
+Outside work I write Neovim plugins, PI extensions, and side-project games I
+will absolutely not finish.
 
 If a thing should be possible and isn't, I'll usually just write it.
 
