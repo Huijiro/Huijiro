@@ -30,6 +30,7 @@ build it.
 
 ### software people use
 
+- **[YaYeet](https://github.com/Huijiro/YaYeet)** installs and runs [Voices of the Void](https://votv.dev/) on Linux through Wine or Proton. It handles game versions, runners, updates, and the usual Linux gaming ceremony.
 - **[blink-cmp-supermaven](https://github.com/Huijiro/blink-cmp-supermaven)** is a Supermaven source for [blink.cmp](https://github.com/Saghen/blink.cmp). It is also the one repo of mine that strangers star.
 - **[tmux-nav.nvim](https://github.com/Huijiro/tmux-nav.nvim)** handles Neovim and tmux pane navigation. Every existing plugin had one feature too many.
 
