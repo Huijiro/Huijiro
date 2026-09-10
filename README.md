@@ -48,7 +48,6 @@ I build tools for [Pi](https://github.com/earendil-works/pi-coding-agent), an ex
 When I'm not writing dev tools, I'm probably starting another game:
 
 - **[europa-derelict](https://github.com/Huijiro/europa-derelict)** is space horror in Godot, written in C++, with my attempt at copying Valve's physics.
-- **[moba-game](https://github.com/Huijiro/moba-game)** exists because League still sucks and Dota expects too much homework.
 - **[gocharge](https://github.com/Huijiro/gocharge)** is a typed Go backend framework built on `net/http`.
 - **[survivors](https://github.com/Huijiro/survivors)** is a Vampire Survivors clone in Rust.
 
