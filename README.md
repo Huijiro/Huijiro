@@ -15,7 +15,7 @@
 
 ### whoami
 
-I'm an engineer at [Agentuity](https://agentuity.com), a full-stack platform for
+I'm an engineer at [Oz is Home](https://ozishome.com/), a full-stack platform for
 AI agents. I work mostly on the CLI, dev mode, build pipeline, and framework
 plumbing. The goal is simple: starting an agent should take one command, not a
 Friday afternoon.
