@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.huijiro.com">huijiro.com</a> ·
-  <a href="https://github.com/agentuity">@agentuity</a> ·
+  <a href="https://github.com/Oz-is-Home-Inc">@Oz is Home</a> ·
   <a href="https://twitter.com/HuijiroHankei">@HuijiroHankei</a> ·
   Brazil 🇧🇷
 </p>
